@@ -11,6 +11,14 @@ A python-based console **level chat application** with **local-level communicati
 * Every message transmitted is recorded in ```chat-history.txt``` file.
 * The format of saving the records is (hostname, message, time).
 
+## How it looks ?
+### Server
+[![server.png](https://i.postimg.cc/N0zW5Qmt/server.png)](https://postimg.cc/7CSBR8Kt)
+### Clients
+#### client 1
+[![image-2024-02-14-090726297.png](https://i.postimg.cc/C10bCqjs/image-2024-02-14-090726297.png)](https://postimg.cc/Lqyq2hQJ)
+#### client 2
+[![image-2024-02-14-090855711.png](https://i.postimg.cc/7L9ZcGFV/image-2024-02-14-090855711.png)](https://postimg.cc/1ggSVt5n)
 
 ## Libraries Used
 **TheRiver** uses Python Standard Libraries :-
