@@ -19,7 +19,7 @@ A python-based console **level chat application** with **local-level communicati
   - ```time``` : for maintaining record of each message.
 
 **TheRiver** uses Third-Party Library :-
-  - ```colorama``` :  for a colored terminal text. Can be installed using command ```pip install colorama```
+  - ```colorama``` :  for a colored terminal text. Can be installed using command ```pip install colorama```.
 
  
 
